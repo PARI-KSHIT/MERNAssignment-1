@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(224, 201, 170);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.card{
+    background-color:rgb(141, 125, 101);
+    width: 300px;
+    padding: 20px;
+    text-align:center ;
+    border-radius: 20px;
+    
+}
+
+.photo{
+    width:100px;
+    height: 100px;
+    background-color: rgb(195, 211, 226);
+    margin: 0 auto 15px;
+    border-radius: 20%;
+    line-height: 100px;
+    color: rgb(84, 77, 68);
+
+}

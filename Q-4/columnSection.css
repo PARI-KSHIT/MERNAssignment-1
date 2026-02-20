@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(210, 191, 166);
+}
+
+.features {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    padding: 40px;
+    text-align: center;
+}
+
+.feature-box {
+    background-color: #e6d8d8;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.icon {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin: 10px 0;
+}

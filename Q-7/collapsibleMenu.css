@@ -1,0 +1,19 @@
+body{
+    background-color:antiquewhite ;
+    font-size: arial;
+  text-align: center;   
+}
+
+h2{
+    background-color:rgb(206, 206, 227);
+    padding: 10px;
+    width: 200px;
+    cursor: pointer;
+
+}
+
+#menu{
+    background-color: rgb(217, 192, 163);
+    width: 200px;
+    padding: 10px;
+}
