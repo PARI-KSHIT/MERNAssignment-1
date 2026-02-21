@@ -1,14 +1,14 @@
-📌 Frontend Practice Assignment (1–15)
+ Frontend Practice Assignment (1–15)
 
 This repository contains solutions for Questions 1 to 15 from the HTML, CSS, and JavaScript assignment.
 
 All tasks are built using:
 
-✅ HTML
+ HTML
+ 
+ CSS
 
-✅ CSS
-
-✅ JavaScript (Vanilla JS)
+ JavaScript (Vanilla JS)
 
 📂 Sections Covered
 🔹 Easy Questions (1–5) – Basic HTML/CSS
